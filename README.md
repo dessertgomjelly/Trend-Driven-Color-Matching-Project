@@ -1,4 +1,7 @@
 # Trend-Driven-Color-Matching-Project
+YOLOv5를 활용하여 상하의를 감지하고, Kmeans와 KNN을 활용하여 트렌드에 맞는 패션 컬러를 자동으로 예측하는 프로젝트
+
+<br>
 
 
 트렌드 기반 컬러 매칭 프로젝트 의 개발 과정이 궁금하다면?!
